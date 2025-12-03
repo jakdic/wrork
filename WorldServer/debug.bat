@@ -1,0 +1,1 @@
+RakionWorldServ.exe -start
